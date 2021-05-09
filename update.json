@@ -1,13 +1,1 @@
-{
-   " response " : [
-    {
-      " datetime " : 1620540947 ,
-       " filename " : "ota-package.zip" ,
-       " id " : "5eb63bbbe01eeed093cb22bb8f5acdc3" ,
-       " romtype " : "unofficial" ,
-       " size " : 314572800 ,
-       " url " : "https://exampl.com/ota-package.zip" ,
-       "version " :"CR-9.0"
-    }
-  ]
-}
+{ "response": [ { "datetime": 1620540947 , "filename": "lineage-18.1-20210205-UNOFFICIAL-mido.zip", "id": "3cf3802e749d40c61ffccdc27cd1698d8f5e055ca4bd0cfa2bc867f94357df21", "romtype": "UNOFFICIAL", "size": 675238211, "url": "https://downloads.sourceforge.net/project/lineageos-18/lineage-18.1-20210205-UNOFFICIAL-mido.zip", "version": "18.1"  }]}
